@@ -2,3 +2,5 @@
 import time as tm
 
 print(tm.time())
+
+a = 5
